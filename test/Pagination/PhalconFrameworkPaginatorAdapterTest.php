@@ -3,7 +3,7 @@
 namespace League\Fractal\Test\Pagination;
 
 use League\Fractal\Pagination\PhalconFrameworkPaginatorAdapter;
-use League\Fractal\Test\TestCase;
+use PHPUnit\Framework\TestCase;
 
 class PhalconFrameworkPaginatorAdapterTest extends TestCase
 {
